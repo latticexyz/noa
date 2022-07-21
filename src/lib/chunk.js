@@ -4,7 +4,7 @@
  */
 
 import { LocationQueue } from './util'
-import * as ndarray from 'ndarray'
+import ndarray from 'ndarray'
 
 export default Chunk
 

@@ -4,7 +4,7 @@
  */
 
 
-import * as glvec3 from 'gl-vec3'
+import glvec3 from 'gl-vec3'
 
 import { SceneOctreeManager } from './sceneOctreeManager'
 
