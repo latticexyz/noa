@@ -24,8 +24,8 @@
         "url": "https://github.com/fenomas/noa/issues"
     },
     "dependencies": {
-        "aabb-3d": "fenomas/aabb-3d",
-        "box-intersect": "fenomas/box-intersect",
+        "aabb-3d": "https://codeload.github.com/fenomas/aabb-3d/tar.gz/c5698961161884397c711e8fb533611642a8a487",
+        "box-intersect": "https://codeload.github.com/fenomas/box-intersect/tar.gz/383cb9bef2cf7140ca6ca9b705669fb108d1357f",
         "ent-comp": "^0.10.1",
         "events": "^3.3.0",
         "fast-voxel-raycast": "^0.1.1",
